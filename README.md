@@ -5,6 +5,8 @@ macOS 状态栏英语查词工具，轻量优雅，随点随查。
 ![macOS](https://img.shields.io/badge/macOS-13.0+-blue)
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 
+![image](./screenshots/image.png)
+
 ## 功能特性
 
 - 🔍 **实时搜索** - 输入即搜，前缀匹配
